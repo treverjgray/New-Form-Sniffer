@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Storage and Data
+storage/
+completed_reports/
+logs/
+master_results.csv
+urls_*.txt
+progress.log
+
+# System Files
+.DS_Store
+
+# IDE Files
+.vscode/
+.idea/

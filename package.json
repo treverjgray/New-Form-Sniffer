@@ -1,0 +1,15 @@
+{
+  "name": "new-form-sniffer",
+  "version": "1.0.0",
+  "description": "CLI tool to crawl websites for URLs.",
+  "main": "NewFormSniffer.js",
+  "type": "module",
+  "scripts": {
+    "start": "node NewFormSniffer.js",
+    "batch": "node runBatch.js"
+  },
+  "dependencies": {
+    "crawlee": "^3.0.0",
+    "playwright": "^1.0.0"
+  }
+}
